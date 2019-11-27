@@ -18,6 +18,8 @@
 [Swans](https://imgur.com/zonBSgL.jpg)  
 [Weezer](https://imgur.com/GprEcSR.jpg)  
 
+---
+
 Music fans love to categorize the music they listen to, sorting artists discographies into 'eras' and genres into subgenres. I though it would be interesting to plot out albums based on their descriptions and see if it aligned with conventional knowledge or if we could gain some new perspective!
 
 ---
