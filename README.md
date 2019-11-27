@@ -1,3 +1,5 @@
+**Organizing Music with Machine Learning**
+
 ### Individual Plots:
 
 [Ambient](https://imgur.com/Fp7a6KR.jpg)  
