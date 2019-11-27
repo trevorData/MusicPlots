@@ -1,4 +1,4 @@
-**Individual Plots:**
+### Individual Plots:
 
 [Ambient](https://imgur.com/Fp7a6KR.jpg)  
 [Animal Collective](https://imgur.com/2eoiIfm.jpg)  
