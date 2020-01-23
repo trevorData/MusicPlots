@@ -1,4 +1,4 @@
-**Organizing Music with Machine Learning**
+**Organizing Albums with Machine Learning**
 
 ### Individual Plots:
 
@@ -22,17 +22,19 @@
 
 ---
 
-Music fans love to categorize the music they listen to, sorting artists discographies into 'eras' and genres into subgenres. I though it would be interesting to plot out albums based on their descriptions and see if it aligned with conventional knowledge or if we could gain some new perspective!
+When discussing music it can sometimes be helpful to think in terms of subcategories, sorting artist's discographies into 'eras' and  genres into subgenres. Usually these subcategories are obvious and require no explanation. For example, people often seperate The Beatles' early albums from their later more psychedelic music.
+
+I thought it would be interesting to take an empirical approach to this kind of categorization, and see how much it lines up with conventional wisdom.
 
 ---
 
 **Methodology:**
 
- I downloaded the descriptions for several albums from RateYourMusic.com and used a technique called [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) to reduce the data to 2 dimensions for visualization. PCA works by combining features that are highly correlated, with the goal of creating new features that show us the most variation in the data.
+ I downloaded the descriptor data for several albums from RateYourMusic.com and used a technique called [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis) to reduce the data to 2 dimensions. In general, PCA works by combining features that are correlated, with the goal of creating new features that show us the most variation in the data.
 
 So if albums that are described as 'calm' are also often described as 'mellow' but almost never described as 'noisy', PCA might combine these features into a new one where 'calm' and 'mellow' give positive scores and 'noisy' gives negative scores.
 
-The six features listed on each axis are the ones that are the most important for that feature, they have the most effect on where points end up along the axis.
+The six features listed on each axis are the ones that are the most "important" for that feature, or have the most effect on where points end up along the axis.
 
 ---
 **Sources:**
